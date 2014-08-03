@@ -3,12 +3,10 @@ layout: page
 title: About
 ---
 
-Some information about you!
+This is a technical blog about the progress of Free Software I contribute to, mostly at [GNU.org](https://savannah.gnu.org/users/gary) and [GitHub](https://github.com/gvvaughan).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+Comments are disabled to save you from digging through spam, but I still enjoy getting feedback via email, and usually respond within a day or two.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Using the icons at the bottom of the page...
