@@ -11,7 +11,7 @@ Between forking [Jekyll Now](https://github.com/barryclark/jekyll-now) to serve 
 $ git remote add upstream git://github.com/barryclark/jekyll-now.git
 $ git fetch upstream
 
-# Merge and push
+# Merge into local master:
 
 $ git checkout master
 $ git merge upstream/master
