@@ -32,7 +32,7 @@ $ git fetch upstream
 $ git checkout master
 $ git merge upstream/master
 
-And push the changes back to github:
+# And push the changes back to github:
 
 $ git push
 {% endhighlight %}
