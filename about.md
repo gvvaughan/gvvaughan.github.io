@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 This is a technical blog about the progress of Free Software I contribute to, mostly at [GNU.org](https://savannah.gnu.org/users/gary) and [GitHub](https://github.com/gvvaughan).
